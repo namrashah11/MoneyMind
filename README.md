@@ -37,10 +37,3 @@ Instead of starting with sensitive financial data, MoneyMind begins with a **lig
 | Bank Data   | Plaid API (OAuth)   |
 
 ---
-
-## 📦 Setup Instructions
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/yourusername/moneymind.git
-   cd moneymind
